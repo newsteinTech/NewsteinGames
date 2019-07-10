@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "id": 12,
+            "name": "Ola"
+        },
+        {
+            "id": 14,
+            "name": "HolaChef"
+        },
+        {
+            "id": 7843,
+            "name": "Olaout"
+        }
+    ],
+    "isValid": true,
+    "errors": null
+}
